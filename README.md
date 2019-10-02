@@ -10,7 +10,7 @@ Tutorial on how to use GitHub
 7. Go to github.com and create a repository. 
 8. Make repository public and initialize the repository with a README.md file.
 
-Definitions: 
+#Definitions: #
 
 GIT: A distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
 
@@ -18,20 +18,20 @@ GITHUB: A website and cloud-based service that helps developers store and manage
 
 Repository: A directory or storage space where your projects can live. 
 
-Clone: 
+Clone: Create a local copy of the code 
 
-Commit: 
+Commit: A revision or an individual change to a file. 
 
-Push:
+Push: Sending committed changes to a remote repository. 
 
-Pull: 
+Pull: Fetching in changes and merging them to the repository. 
 
-Branch:
+Branch: Parallel version of a repository, which is contained in the repository but does not affect the primary branch allowing you to work freely without disrupting the "live" version. 
 
-Merge: 
+Merge: Takes one branch and applies them into another branch. 
 
-Merge Conflict: 
+Merge Conflict: When you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge. 
 
-Fetch: 
+Fetch: Refers to getting the latest changes from an online repository without merging them in. 
 
 Remote: 
