@@ -10,7 +10,7 @@ Tutorial on how to use GitHub
 7. Go to github.com and create a repository. 
 8. Make repository public and initialize the repository with a README.md file.
 
-#Definitions: #
+#Definitions:
 
 GIT: A distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
 
@@ -34,4 +34,4 @@ Merge Conflict: When you merge branches that have competing commits, and Git nee
 
 Fetch: Refers to getting the latest changes from an online repository without merging them in. 
 
-Remote: 
+Remote: A common repository that all members use to exchange their change. It can be connected to local clones so the changes can be synced. 
