@@ -42,3 +42,11 @@ Merge Conflict: When you merge branches that have competing commits, and Git nee
 Fetch: Refers to getting the latest changes from an online repository without merging them in. 
 
 Remote: A common repository that all members use to exchange their change. It can be connected to local clones so the changes can be synced. 
+
+#References: 
+
+https://help.github.com/en/articles/github-glossary
+
+Introduction to Github and Webstorm by Arthur H. Hendela, Ph. D
+
+https://help.github.com/en/articles/about-repositories
