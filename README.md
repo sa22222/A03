@@ -12,4 +12,5 @@ Tutorial on how to use GitHub
 
 Definitions: 
 
-GIT: 
+GIT: A distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
+GITHUB: A website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code.
