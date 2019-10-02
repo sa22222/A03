@@ -10,7 +10,7 @@ Tutorial on how to use GitHub
 7. Go to github.com and create a repository. 
 8. Make repository public and initialize the repository with a README.md file.
 
-#Definitions:
+# Definitions: 
 
 GIT: A distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
 
